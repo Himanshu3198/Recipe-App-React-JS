@@ -7,6 +7,8 @@
   </ul>
 
 
+![screencapture-localhost-3000-2020-10-20-22_28_03](https://user-images.githubusercontent.com/54854216/96619267-98024200-1323-11eb-8f1f-9c846f65cc36.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
