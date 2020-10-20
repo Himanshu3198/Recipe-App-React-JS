@@ -1,3 +1,12 @@
+<h1>Recipe App</h1>
+<h1>Stack Use</h1>
+<ul>
+  <li>Bootstap</li>
+  <li>React.JS</li>
+  <li>Axious</li>
+  </ul>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
