@@ -1,7 +1,7 @@
 <h1>Recipe App</h1>
 <h1>Stack Use</h1>
 <ul>
-  <li>Bootstap</li>
+  <li>Bootstrap</li>
   <li>React.JS</li>
   <li>Axious</li>
   </ul>
