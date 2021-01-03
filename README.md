@@ -1,10 +1,13 @@
 <h1>Recipe App</h1>
+<h1>Live demo   https://hsrecipe.netlify.app/</h1> 
 <h1>Stack Use</h1>
 <ul>
   <li>Bootstrap</li>
   <li>React.JS</li>
   <li>Axious</li>
   </ul>
+  
+ 
 
 
 ![screencapture-localhost-3000-2020-10-20-22_28_03](https://user-images.githubusercontent.com/54854216/96619267-98024200-1323-11eb-8f1f-9c846f65cc36.png)
